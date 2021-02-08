@@ -1,0 +1,1 @@
+// Apenas a resolução de alguns exercícios propostos no Desafio da Semana 2
